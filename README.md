@@ -1,16 +1,13 @@
-## Hi there 👋
+### Yyug — CSE @ BMSCE
+ML · RL · quant finance · Indian-context builds.
 
-<!--
-**rajyyug1132/rajyyug1132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Now:** RL traffic signals · Nifty 50 strategies · AeroBMSCE / UTSAV 2026
 
-Here are some ideas to get you started:
+**Selected work**
+- 🌾 [kisansetu](https://github.com/rajyyug1132/KisanSetu) — Voice-first ag advisory, 4 Indian languages (React + Claude API)
+- 🚦 [BangaloreTrafficEnv](https://github.com/rajyyug1132/BangaloreTrafficEnv) — RL env for adaptive signals (Scaler × Meta hackathon)
+- 🗳️ [voteready](https://github.com/rajyyug1132/voteready) — Voter walkthrough for 18-22 yr Indians (PromptWars 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Python · React · NumPy · TS · learning Python for CP
+
+Reach: rajyyug@gmail.com
